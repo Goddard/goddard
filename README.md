@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1325621?color=777BB4&label=Stackoverflow%20Rep&logo=stackoverflow&style=for-the-badge)
+
 ![Goddard's github stats](https://github-readme-stats.vercel.app/api?username=goddard&count_private=true&theme=chartreuse-dark&&show_icons=true)
 
 
