@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Goddard's github stats](https://github-readme-stats-delta-two.vercel.app/api?username=goddard&count_private=true&theme=chartreuse-dark&&show_icons=true)
+![Goddard's github stats](https://github-readme-stats.vercel.app/api?username=goddard&count_private=true&theme=chartreuse-dark&&show_icons=true)
 
 
 <!--
