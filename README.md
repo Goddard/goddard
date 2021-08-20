@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Project IE 4k](https://github.com/Goddard/Project-IE-4k)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **HTTP2**
 
 - 👯 I’m looking to collaborate on [Project IE 4k](https://github.com/Goddard/Project-IE-4k)
 
